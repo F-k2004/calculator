@@ -11,7 +11,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background: #f3f4f6;
+      ackground: #f3f4f6;
     }
     .calculator {
       background: white;
